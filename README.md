@@ -1,6 +1,19 @@
 # Hi, I'm Akash Mishra! 👋
-
+<!--
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dark)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=radical)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=merko)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=gruvbox)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=tokyonight)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=onedark)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=cobalt)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=synthwave)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=highcontrast)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dracula)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
+-->
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=radical)
 ## 🚀 About Me
 I'm a 3rd year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and loves full stack App and Web Development in Flutter!
 
