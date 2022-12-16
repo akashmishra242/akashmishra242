@@ -32,7 +32,7 @@ I'm a 3rd year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and 
 
 
 ## 🛠 Skills
-Flutter, MySQL, Dart, Firebase, Java, Python, ML
+Flutter, MySQL, Dart, Firebase, Java, Python, ML, Go
 
 <!--
 **akashmishra242/akashmishra242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
