@@ -1,4 +1,5 @@
-# Hi, I'm Akash Mishra! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B%2C+I'm+Akash+Mishra!)](https://git.io/typing-svg)
+---
 <!--
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dark)
