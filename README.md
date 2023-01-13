@@ -14,7 +14,7 @@
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dracula)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
 -->
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=radical)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dracula)
 ## 🚀 About Me
 I'm a 3rd year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and loves full stack App and Web Development in Flutter!
 
