@@ -21,7 +21,7 @@ I'm a 3rd year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and 
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-mishra09/)
-[![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/mishra_akash242)
+[![github](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmishra242/)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@akash-mishra/)
 [![twitter](https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mishra_akash242)
 [![angel](https://img.shields.io/badge/angellist-white?style=for-the-badge&logo=angellist&logoColor=black)](https://angel.co/u/akash-mishra09)
