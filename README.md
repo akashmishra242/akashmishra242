@@ -35,7 +35,7 @@ Intern at Reliance Jio. Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm 
 
 
 ## 🛠 Skills
-Flutter, MySQL, Dart, Firebase, Java, Python, ML, Go, JavaScript, Node.js, MongoDB, Serverpod
+Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaScript, Node.js, MongoDB, TensorFlow, Keras, Serverpod, Hive, Sqflite, Google Cloud.
 
 <!--
 **akashmishra242/akashmishra242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
