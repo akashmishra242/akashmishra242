@@ -35,7 +35,7 @@ Intern at Reliance Jio. Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm 
 
 
 ## 🛠 Skills
-Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaScript, Node.js, MongoDB, TensorFlow, Keras, Serverpod, Hive, Sqflite, Google Cloud.
+Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaScript, C, C++, html, Node.js, MongoDB, TensorFlow, Keras, Serverpod, Hive, Sqflite, Google Cloud.
 <html>
 <!-- <head>
   <link rel="stylesheet" href="https://kit.fontawesome.com/f28d4bd18d.css" crossorigin="anonymous">
@@ -65,7 +65,11 @@ Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaSc
   </ul>
 </body>
 </html> -->
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,androidstudio,go,javascript,html,nodejs,cpp,mongodb,tensorflow,googlecloud" />
+  </a>
+</p>
 <!--
 **akashmishra242/akashmishra242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
