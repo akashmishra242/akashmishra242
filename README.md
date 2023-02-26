@@ -36,6 +36,35 @@ Intern at Reliance Jio. Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm 
 
 ## 🛠 Skills
 Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaScript, Node.js, MongoDB, TensorFlow, Keras, Serverpod, Hive, Sqflite, Google Cloud.
+<html>
+<!-- <head>
+  <link rel="stylesheet" href="https://kit.fontawesome.com/f28d4bd18d.css" crossorigin="anonymous">
+</head>
+<body>
+  <ul>
+    <i class="fa-solid fa-user"></i>
+    <li><i class="fa-solid fa-flutter"></i> Flutter</li>
+    <li><i class="fas fa-database"></i> MySQL</li>
+    <li><i class="fab fa-dart"></i> Dart</li>
+    <li><i class="fas fa-fire"></i> Firebase</li>
+    <li><i class="fab fa-java"></i> Java</li>
+    <li><i class="fab fa-python"></i> Python</li>
+    <li><i class="fas fa-brain"></i> ML</li>
+    <li><i class="fas fa-database"></i> JDBC</li>
+    <li><i class="fab fa-android"></i> Android core</li>
+    <li><i class="fab fa-go"></i> Go</li>
+    <li><i class="fab fa-js"></i> JavaScript</li>
+    <li><i class="fab fa-node"></i> Node.js</li>
+    <li><i class="fas fa-database"></i> MongoDB</li>
+    <li><i class="fab fa-tumblr"></i> TensorFlow</li>
+    <li><i class="fab fa-creative-commons"></i> Keras</li>
+    <li><i class="fas fa-server"></i> Serverpod</li>
+    <li><i class="fas fa-hive"></i> Hive</li>
+    <li><i class="fas fa-database"></i> Sqflite</li>
+    <li><i class="fab fa-google"></i> Google Cloud</li>
+  </ul>
+</body>
+</html> -->
 
 <!--
 **akashmishra242/akashmishra242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
