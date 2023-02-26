@@ -67,7 +67,7 @@ Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, JavaSc
 </html> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,androidstudio,go,javascript,html,nodejs,cpp,mongodb,tensorflow,googlecloud" />
+    <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,androidstudio,go,javascript,html,nodejs,mongodb,tensorflow,googlecloud" />
   </a>
 </p>
 <!--
