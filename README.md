@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=5000&width=500&lines=Hi%F0%9F%91%8B%2C+I'm+Akash+Mishra!)](https://git.io/typing-svg)
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashmishra242&label=Profile%20views&color=0e75b6&style=flat" alt="akashmishra242" /> </p>
+
 <!--
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dark)
@@ -15,6 +18,7 @@
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=react)
 -->
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=akashmishra242&show_icons=true&theme=dracula)
+  
 ## 🚀 About Me
 Intern at Reliance Jio. Pre-final year CSE Student at IIIT Vadodara ICD'24. I'm a coding enthusiast and loves full stack App and Web Development in Flutter. I enjoy developing and exploring Computer Vision.
 
@@ -70,6 +74,14 @@ Flutter, MySQL, Dart, Firebase, Java, Python, ML, JDBC, Android core, Go, flask,
     <img src="https://skillicons.dev/icons?i=flutter,mysql,dart,firebase,java,python,c,flask,cpp,androidstudio,go,javascript,html,nodejs,mongodb,tensorflow,googlecloud" />
   </a>
 </p>
+<!--  
+---
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashmishra242&show_icons=true&locale=en&layout=compact&theme=dark&card_width=300" alt="akashmishra242" /></p>
+</p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akashmishra242&theme=dark&card_width=300&layout=compact" alt="akashmishra242" /></p>
+<p align="left"
+   href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashmishra242&theme=onedark&row=2&column=3" alt="akashmishra242" /></a> 
+-->
 <!--
 **akashmishra242/akashmishra242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
